@@ -1,0 +1,38 @@
+* {
+    font-size:15px;
+    font-family:tahoma;
+    margin-top:5px;
+}
+
+QPushButton {
+    padding: 10px;
+}
+
+#btn1, #btn3, #btn4 {
+    padding: 10px;
+    border: 2px solid black;
+    font-weight: bold;
+    align-items: center;  
+    border-radius: 10px;
+}
+
+#btn1:hover {
+    padding: 10px;
+    border: 2px solid blue;
+    background-color: rgb(44, 44, 255);
+    color: rgb(255, 217, 0);
+}
+
+#btn3:hover {
+    padding: 10px;
+    border: 2px solid rgb(0, 255, 64);
+    background-color: rgb(98, 255, 106);
+    color: rgb(255, 255, 255);
+}
+
+#btn4:hover {
+    padding: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(138, 138, 138);
+    color: rgb(255, 255, 255);
+}
