@@ -19,14 +19,14 @@ QPushButton {
 #btn1:hover {
     padding: 10px;
     border: 2px solid blue;
-    background-color: rgb(44, 44, 255);
+    background-color: rgb(78, 78, 255);
     color: rgb(255, 217, 0);
 }
 
 #btn3:hover {
     padding: 10px;
     border: 2px solid rgb(0, 255, 64);
-    background-color: rgb(98, 255, 106);
+    background-color: rgb(128, 255, 134);
     color: rgb(255, 255, 255);
 }
 
